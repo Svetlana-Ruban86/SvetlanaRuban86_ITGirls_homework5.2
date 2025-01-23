@@ -1,0 +1,274 @@
+body{
+  width:100%;
+  background-color: #ec198d5d;
+}
+
+.menu {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   justify-content: space-around;
+   align-items: center;
+   background-color: #000000;
+   color: #ffffff;
+   width:100%;
+ } 
+
+ .list {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-wrap:nowrap;
+   align-items: center;
+   font-style: normal;
+   font-weight: 300;
+   font-size: 18px;
+   line-height: 100%;
+   text-align: center;
+   color: #ffffff;
+   list-style-type: none;
+   margin:0;
+   width:100%;
+ }
+
+ .list_item_1 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   text-decoration: none;
+   padding:10px 20px;
+   color: #ffffff;
+ }
+ 
+ .list_item_2 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   text-decoration: none;
+   color: #ffffff;
+   padding:10px 20px;
+ }
+ 
+ .list_item_3 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   text-decoration: none;
+   color: #ffffff;
+   padding:10px 20px;
+ }
+ 
+ .list_item_4 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   text-decoration: none;
+   color: #ffffff;
+   padding:10px 20px;
+ }
+ 
+ .list_item_5 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   text-decoration: none;
+   color: #ffffff;
+   padding:10px 20px;
+ }
+ 
+ .list_item_6 {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: center;
+   text-decoration: none;
+   color: #ffffff;
+   padding:10px 20px;
+ }
+ 
+ h1{
+  text-align: center;
+ }
+
+ .pictures_container{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   align-items: center;
+   width:100%;
+   padding:0 20px;
+ }
+
+ .picture_1{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_1{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+ .picture_2{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_2{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+ .picture_3{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_3{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+ .picture_4{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+  }
+
+  .picture_1_4{
+    width:250px;
+    height:250px;
+  object-fit:cover;
+  }
+
+ .picture_5{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_5{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+ .picture_6{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_6{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+ .picture_7{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_7{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+ .picture_8{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding:10px;
+ }
+
+ .picture_1_8{
+  width:250px;
+  height:250px;
+  object-fit:cover;
+ }
+
+.picture_1_1:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_2:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_3:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_4:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_5:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_6:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_7:hover {
+  transform: scale(1.1);
+}
+
+.picture_1_8:hover {
+  transform: scale(1.1);
+}
+
+.list_item_1:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_2:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_3:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_4:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_5:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_6:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_7:hover{
+  color:rgb(255, 0, 102)
+}
+
+.list_item_8:hover{
+  color:rgb(255, 0, 102)
+}
